@@ -1,4 +1,4 @@
-## Olá, eu sou Everton Spindola, Analista Desenvolvedor de Software, focado em resolver problemas.
+## Olá, eu sou Everton Spindola, Analista Desenvolvedor de Software, sinto prazer em encontrar soluções para facilitar a vida das pessoas.
 <div align="center">
   <a href="https://github.com/evertonj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
